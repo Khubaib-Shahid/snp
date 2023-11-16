@@ -1,0 +1,247 @@
+body{
+    width: 100vw !important;
+    overflow-x: hidden;
+}
+#nav{
+    width: 100%;
+    margin: 0;
+}
+#logo {
+    margin-left: 110px;
+    margin-top: 15px;
+}
+ul{
+    margin-left: -180px;
+    padding-top: 20px;
+}
+li > #btn{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.662);
+}
+li >#btn:hover{
+    color: white;
+}
+li{
+    display: inline-block;
+    margin: 15px;
+    font-size: large;
+}
+li > #round{
+    font-size: medium;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    border-radius: 300px;
+    padding: 20px;
+}
+li > #red{
+    font-size: medium;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 300px;
+    padding: 20px;
+}
+#box{
+    overflow: hidden;
+}
+#carouselExample{
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+}
+
+#info1{
+    text-align: center;
+    color: white;
+    margin-top: 85px;
+}
+#info1 span{
+    font-size: 60px;
+    font-weight: 1000;
+}
+.mb-5{
+    padding-bottom: 80px;
+}
+#whitecard{
+    display: inline-block;
+    background-color: white;
+    width: 250px;
+    height: 130px;
+    margin: 15px 10px 40px 10px;
+    border-radius: 5px;
+}
+.order{
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+#whitecard > img{
+    padding-top: 30px;
+}
+#cardbtn{
+    font-size: small;
+    text-decoration: none;
+    color: white;
+    border: 1px solid grey;
+    border-radius: 50px;
+    margin: 50px 70px;
+    padding: 15px 35px;
+}
+#cardbtn:hover{
+    background-color: rgba(255, 255, 255, 0.095);
+}
+#mainbox{
+    background-color: rgba(225, 225, 225, 0.06);
+    width: 100%;
+    height: auto;
+    background-image: url(Images/s-white-background.webp);
+    background-repeat: no-repeat;
+    background-position: 95% 10%;
+}
+.snph{
+    color: white;
+    font-size: 50px;
+    font-weight: 1000;
+}
+.snph3{
+    font-size: 50px;
+    color: white;
+}
+#mainbox p{
+    color: lightgray;
+}
+.franchise{
+    margin: 30px 120px;
+}
+.cname, .fname{
+    color: red !important;
+    font-size: 1em;
+    letter-spacing: 0.5em;
+    margin-bottom: 0px;
+}
+.franchise h2{
+    color: white;
+}
+.salt{
+    font-weight: 1000;
+}
+.direction, .direction2, .direction3{
+    width: 174px;
+    height: 50px;
+    font-size: 0.9em;
+    background-color: transparent;
+    color: white;
+    padding-bottom: 8px;
+    border: 1px solid rgb(110, 110, 110);
+    border-radius: 50px;
+    padding-top: 6px;
+    margin-top: 30px;
+}
+.direction span, .direction2 span, .direction3 span{
+    font-size: 17px;
+    color: red;
+    background-color: white;
+    padding: 4px 7px;
+    border-radius: 50%;
+    margin: 8px;
+}
+.express-mall{
+    height: auto;
+    background-image: url(Images/background-p.webp);
+    background-repeat: no-repeat;
+    background-position: 20px 0px;
+    margin-bottom: 60px;
+}
+.forred{
+    background-image: url(Images/red-background.webp);
+    background-repeat: no-repeat;
+    background-position: 950px 100px;
+}
+.inner-mall{
+    margin: 30px 120px;
+}
+.mname{
+    color: red;
+    font-size: 0.8em;
+    letter-spacing: 0.4em;
+}
+#snpe{
+    margin-top: -8px;
+}
+#snpe span{
+    font-weight: 1000;
+}
+#eloc{
+    color: gray;
+    margin: 4px;
+}
+.direction2{
+    margin-left: 90px;
+}
+.dual-sec{
+    margin: 30px 180px;
+}
+.village-franchise{
+    background-color: rgba(225, 225, 225, 0.06);
+}
+.fname{
+    padding-top: 75px;
+}
+.direction3{
+    background-color: rgb(40 167 69);
+}
+.direction3 span{
+    color: rgb(40, 167, 69);
+    border: 1px solid rgb(40, 167, 69);   
+}
+.snph3 span{
+    font-size: 30px;
+}
+.inner-future{
+    margin: 30px 120px;
+}
+.white-box{
+    width: 350px;
+    height: 220px;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    margin-bottom: 40px;
+}
+.white-box > h3{
+    padding-top: 80px;
+}
+.menu{
+    margin: 40px 5px;
+}
+.footer{
+    background-color: rgba(225, 225, 225, 0.06);
+    height: 460px;
+    margin-top: 80px;
+    background-image: url(Images/S-backgroundlogo.webp);
+    background-repeat: no-repeat;
+    background-position: 30px 65px;
+}
+#f-line{
+    padding-top: 75px;
+    padding-left: 105px;
+}
+.fpara{
+    color: grey;
+}
+.slink{
+    text-decoration: none;
+    color: grey;
+}
+.slink:hover{
+    color: white;
+}
+#flogo, #ilogo, #tlogo{
+    font-size: 1em;
+    background-color: red;
+    padding: 13px 15px;
+    border-radius: 150px;
+}
